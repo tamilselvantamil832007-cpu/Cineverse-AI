@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CINEVERSE AI — Smart Cinema Booking Platform
 
 ## Stack
@@ -44,3 +45,6 @@ App: http://localhost:5173
 - Sample movies, theatres and history are demonstration data.
 - The crowd forecast should be retrained and evaluated using real historical booking data before operational use.
 - Add real authentication, authorization, rate limiting, payment-provider integration, database migrations, secure deployment and concurrency-safe seat inventory before production.
+=======
+# Ciniverse-AI
+>>>>>>> b26276c6a33c8abff9e5e9ec6386e43217ba897a
